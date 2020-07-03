@@ -1,0 +1,34 @@
+h1{
+    color: green;
+  
+}
+
+.head{
+    display: flex; 
+    justify-content:space-evenly ;
+    background-color: #359da1;
+}
+.con{
+    flex-direction: column;
+}
+.class{
+    display: flex; 
+    justify-content:around ;
+}
+.cord{
+    order: 5;
+}
+.jpg{
+    order: 5;
+    display:flex; 
+    justify-content : space-evenly ;
+    background-attachment: #922525 
+  
+}
+.pdf{
+    display:flex; 
+    justify-content : space-evenly ;
+    background-attachment: #922525 
+   
+    
+}
